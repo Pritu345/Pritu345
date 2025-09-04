@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-jha-0a0961219/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jhapratiksha0@gmail.com)  
 
 ---
 ⭐️ From [Pratiksha](https://github.com/your-username)
