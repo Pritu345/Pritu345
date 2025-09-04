@@ -42,13 +42,6 @@
 ## 🌐 Domains I’ve Worked On  
 - 🤖 **Machine Learning & Deep Learning** – model training, evaluation & deployment  
 - 🌍 **Full-Stack Development** – scalable and responsive web applications  
-
----
-
-## 📊 GitHub Stats  
-![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
 ---
 
 ## 📫 Connect With Me  
